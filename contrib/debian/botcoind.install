@@ -1,0 +1,2 @@
+debian/bin/botcoind usr/bin
+src/botcoind usr/lib/cleverbot
